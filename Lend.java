@@ -1,4 +1,3 @@
-package program;
 import java.util.*;
 import java.awt.Color;
 import java.awt.Container;
